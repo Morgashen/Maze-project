@@ -1,4 +1,4 @@
-#include "../include/main.h"
+#include "main.h"
 
 /**
  * verLine - A function to draw fast vertical line from (x,y1) to (x,y2),

@@ -1,4 +1,4 @@
-#include "../include/main.h"
+#include "main.h"
 
 /**
  * raycaster - A function to perform raycasting operations.

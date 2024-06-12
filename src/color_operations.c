@@ -1,4 +1,4 @@
-#include "../include/main.h"
+#include "main.h"
 
 /**
  * rgba_color_add - A function to add 2 structs of type ColorRGBA together

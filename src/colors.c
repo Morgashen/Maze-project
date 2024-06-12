@@ -1,4 +1,4 @@
-#include "../include/main.h"
+#include "main.h"
 
 /**
  * rgba_color_code - A code to return the RGBA code of the requested color

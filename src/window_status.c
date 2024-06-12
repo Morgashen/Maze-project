@@ -1,4 +1,4 @@
-#include "../include/main.h"
+#include "main.h"
 
 /**
  * done - A function that returns 1 if you close the window or press the escape

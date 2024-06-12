@@ -1,4 +1,4 @@
-#include "../include/main.h"
+#include "main.h"
 
 /**
  * handle_mod1 - Function to handle modulo operations by 1
